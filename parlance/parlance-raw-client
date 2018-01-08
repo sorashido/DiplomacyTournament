@@ -1,4 +1,4 @@
-#!/Users/tela/.anyenv/envs/pyenv/versions/2.7.13/bin/python
+#!/Users/tela/.anyenv/envs/pyenv/versions/2.7.14/bin/python
 # EASY-INSTALL-ENTRY-SCRIPT: 'Parlance==1.4.1','console_scripts','parlance-raw-client'
 __requires__ = 'Parlance==1.4.1'
 import re
